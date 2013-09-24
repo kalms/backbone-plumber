@@ -8,7 +8,7 @@ Maintainer(s): Rasmus Kalms / Vertic
 
 ## Known issues
 
-View attach flow needs to be optimized, to allow for insertion through view objects in an array (in order), or manually. Right now only manual insertion through `createView(); works.
+View attach flow needs to be optimized, to allow for insertion through view objects in an array (in order), or manually. Right now only manual insertion through `createView();` works.
 
 ## License
 
