@@ -1,5 +1,5 @@
 {
     "name": "backbone-plumber",
-    "version": "0.0.4-beta",
+    "version": "0.0.5",
     "main": "./backbone.plumber.js"
 }
