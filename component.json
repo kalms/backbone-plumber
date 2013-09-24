@@ -1,8 +1,5 @@
 {
     "name": "Backbone Plumber",
     "version": "0.0.4",
-    "main": "./backbone.plumber.js",
-    "dependencies": {
-        "backbone": "latest"
-    }
+    "main": "./backbone.plumber.js"
 }
